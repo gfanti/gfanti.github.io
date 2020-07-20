@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Team"
+    url: /team/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Service"
+    url: /service/
