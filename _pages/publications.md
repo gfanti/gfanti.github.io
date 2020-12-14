@@ -4,11 +4,27 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+### 2021
+* <b>Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and
+the Role of Supervised Attention </b> <br>
+<i>(to appear in AAAI 2021)</i> <br>
+  H. Gong, A. Valido, K. Ingraham, G. Fanti, D. Espelage, S. Bhat
+* <b>SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning</b> <br>
+<i>(to appear at NDSS 2021)</i><br>
+      C. Hou\*, M.Zhou\*, Y. Ji, P. Daian, F. Tramer, G. Fanti, A. Juels<br>
+      <a href="https://arxiv.org/pdf/1912.01798">[NDSS 2021]</a> <a href="https://github.com/wuwuz/SquirRL">[code]</a> <i>*Equal contribution</i>
 
 ### 2020
 * <b>Communication cost of consensus for nodes with limited memory</b> <br>
     G. Fanti, N. Holden, Y. Peres, G. Ranade <br>
-    <a href="https://www.pnas.org/content/117/11/5624.short">[PNAS] </a> <a href="https://arxiv.org/pdf/1901.01665">[arXiv] </a> <a href="https://github.com/gfanti/communication-cost-consensus">[code] </a>
+    <a href="https://www.pnas.org/content/117/11/5624.short">[PNAS]</a>
+    <a href="https://arxiv.org/pdf/1901.01665">[arXiv]</a>
+    <a href="https://github.com/gfanti/communication-cost-consensus">[code] </a>
+* <b>Generating High-fidelity, Synthetic Time Series Datasets with DoppelGANger</b> <br>
+        Z. Lin, A. Jain, C. Wang, G. Fanti, V. Sekar <br>
+        <b><font color="purple">(Best Paper Award Finalist, ACM IMC)</font></b><br>
+      <a href="https://arxiv.org/pdf/1909.13403">[IMC 2020]</a>
+      <a href="https://github.com/fjxmlzn/DoppelGANger">[code] </a>
 * <b>Routing cryptocurrency with the spider network</b><br>
       V. Sivaraman, S. Bojja Venkatakrishnan, K. Ruan, P. Negi, L. Yang, R. Mittal, G. Fanti, M. Alizadeh<br>
       <a href="https://arxiv.org/pdf/1809.05088.pdf">[NSDI 2020]</a>
@@ -17,11 +33,13 @@ author_profile: false
     W. Tang, W. Wang, G. Fanti, S. Oh <br>
     <a href="https://arxiv.org/pdf/1909.02717.pdf">[Sigmetrics 2020] </a>
 * <b>InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers</b> <br>
-        Z. Lin, K. Thekumparampil, G. Fanti, S. Oh <br>
-      <a href="https://arxiv.org/pdf/1906.06034">[ICML 2020] </a> <a href="https://github.com/fjxmlzn/InfoGAN-CR">[code] </a>
-* <b>SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning</b><br>
-      C. Hou\*, M.Zhou\*, Y. Ji, P. Daian, F. Tramer, G. Fanti, A. Juels<br>
-      <a href="https://arxiv.org/pdf/1912.01798">[arXiv]</a> <a href="https://github.com/wuwuz/SquirRL">[code]</a> <i>*Equal contribution</i>
+    Z. Lin, K. Thekumparampil, G. Fanti, S. Oh <br>
+    <a href="https://arxiv.org/pdf/1906.06034">[ICML 2020]</a>
+    <a href="https://github.com/fjxmlzn/InfoGAN-CR">[code] </a>
+* <b>Design choices for central bank digital currency: Policy and technical considerations</b><br>
+    S. Allen, S. Capkun, I. Eyal, G. Fanti, B. Ford, J. Grimmelmann, A. Juels, K. Kostiainen, S. Meiklejohn, A. Miller, E. Prasad, K. Wüst, and F. Zhang <br>
+  <a href="https://www.brookings.edu/research/design-choices-for-central-bank-digital-currency-policy-and-technical-considerations/">[Brookings Report]</a>
+
 
 
 ### 2019
@@ -43,10 +61,7 @@ author_profile: false
 * <b>Towards Oblivious Network Analysis using Generative Adversarial Networks</b> <br>
         Z. Lin, S. Moon, C. Zarate, R. Mulagalapalli,  S. Kulandaivel, G. Fanti, V. Sekar <br>
       <a href="https://dl.acm.org/citation.cfm?id=3365854">[HotNets 2019] </a>
-* <b>Generating High-fidelity, Synthetic Time Series Datasets with DoppelGANger</b> <br>
-        Z. Lin, A. Jain, C. Wang, G. Fanti, V. Sekar <br>
-      <a href="https://arxiv.org/pdf/1909.13403">[arXiv] </a>
-      <a href="https://github.com/fjxmlzn/DoppelGANger">[code] </a>
+
 
 ### 2018
 * <b>Routing Cryptocurrency in the Spider Network</b><br>

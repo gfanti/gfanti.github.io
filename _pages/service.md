@@ -7,10 +7,10 @@ author_profile: false
 
 
 ### Organizing Committees
+* ACM Sigmetrics Equality and Diversity Committee (2019-present)
 * ACM Sigmetrics Student Activities Chair (2021)
 * NDSS Workshop Committee Co-Chair (2018-2020)
 * ACM Sigmetrics Registration Chair (2020)
-* ACM Sigmetrics Equality and Diversity Committee (2019-present)
 * ACM POMACS Information Director (2017-present)
 
 ### Program Committes
