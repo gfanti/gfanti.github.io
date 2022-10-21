@@ -4,15 +4,69 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+### 2022
+* <b>Missing Key: </b> <br>
+        G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff<br>
+        <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/missing-key/">[Atlantic Council]</a>
+        <br>
+* <b>Towards a Defense against Backdoor Attacks in
+Continual Federated Learning</b> <br>
+        S. Wang, J. Hayase, G. Fanti, and S. Oh <br>
+        <a href="https://arxiv.org/abs/2205.11736">[arXiv]</a>
+        <a href="https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning">[code]</a>
+        <br>
+* <b>Practical GAN-based Synthetic IP Header Trace Generation using NetShare</b> <br>
+        Y. Yin, Z. Lin, M. Jin, G. Fanti, and V. Sekar <br>
+        <a href="">[SIGCOMM 2022]</a>
+        <a href="">[code]</a>
+        <br>
+* <b>Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</b> <br>
+        W. Tang, L. Kiffer, G. Fanti, and A. Juels <br>
+        <a href="https://arxiv.org/pdf/2205.06837">[arXiv]</a>
+        <a href="https://github.com/WeizhaoT/geth_peri">[geth client code]</a>
+        <a href="https://github.com/WeizhaoT/Triangular-Latency-Simulator">[simulation code] </a><br>
+* <b>FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning</b> <br>
+        C. Hou, K. K. Thekumparampil, G. Fanti, S. Oh <br>
+        (Presented at the <a href="http://federated-learning.org/fl-icml-2021/">FL-ICML 2021 Workshop</a>, Oral) <br>
+      <a href="https://arxiv.org/pdf/2108.06869.pdf">[ICLR 2022]</a>
+* <b>RareGAN: Generating Samples for Rare Classes</b> <br>
+        Z. Lin, G. Fanti, V. Sekar <br>
+      <a href="">[AAAI 2022]</a>
+      <a href="https://github.com/fjxmlzn/RareGAN">[code] </a>
+* <b>Locally Differentially Private Sparse Vector Aggregation</b> <br>
+        M. Zhou, T. Wang, H. Chan, G. Fanti, E. Shi <br>
+      <a href="https://arxiv.org/pdf/2112.03449">[IEEE S&P 2022]</a>
+      <a href="https://github.com/DPSparseVector/dp-sparse">[code] </a>
+* <b>Efficient Algorithms for Federated Saddle Point Optimization</b> <br>
+        C. Hou, K. K. Thekumparampil, G. Fanti, S. Oh <br>
+      <a href="https://arxiv.org/pdf/2102.06333">[arxiv]</a>
+
 ### 2021
+* <b>Why Spectral Normalization Stabilizes GANs: Analysis and Improvements</b> <br>
+        Z. Lin, V. Sekar, G. Fanti <br>
+      <a href="https://arxiv.org/pdf/2009.02773.pdf">[NeurIPS 2021]</a>
+      <a href="https://github.com/fjxmlzn/BSN">[code] </a>
+* <b>The Effect of Network Topology on Credit Network Throughput</b> <br>
+      V. Sivaraman, W. Tang, S. B.
+  Venkatakrishnan, G. Fanti, M. Alizadeh <br>
+      <a href="http://arxiv.org/abs/2103.03288">[IFIP Performance 2021]</a>
+* <b>On the Privacy Properties of GAN-generated samples</b> <br>
+        Z. Lin, V. Sekar, G. Fanti <br>
+      <a href="http://proceedings.mlr.press/v130/lin21b/lin21b.pdf">[AISTATS 2021]</a>
+* <b>Self-supervised euphemism detection and identification for content moderation</b> <br>
+  W. Zhu, H. Gong, R.Bansal, Z. Weinberg, N. Christin, G. Fanti, S. Bhat <br>
+  <a href="https://arxiv.org/pdf/2103.16808">[IEEE S&P 2021]</a>
+      <a href="https://github.com/WanzhengZhu/Euphemism">[code] </a>
+* <b>SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning</b><br>
+      C. Hou\*, M.Zhou\*, Y. Ji, P. Daian, F. Tramer, G. Fanti, A. Juels<br>
+      <a href="https://arxiv.org/pdf/1912.01798">[NDSS 2021]</a> 
+      <a href="https://github.com/wuwuz/SquirRL">[code]</a> <i>*Equal contribution</i>
 * <b>Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and
 the Role of Supervised Attention </b> <br>
-<i>(to appear in AAAI 2021)</i> <br>
-  H. Gong, A. Valido, K. Ingraham, G. Fanti, D. Espelage, S. Bhat
-* <b>SquirRL: Automating Attack Discovery on Blockchain Incentive Mechanisms with Deep Reinforcement Learning</b> <br>
-<i>(to appear at NDSS 2021)</i><br>
-      C. Hou\*, M.Zhou\*, Y. Ji, P. Daian, F. Tramer, G. Fanti, A. Juels<br>
-      <a href="https://arxiv.org/pdf/1912.01798">[NDSS 2021]</a> <a href="https://github.com/wuwuz/SquirRL">[code]</a> <i>*Equal contribution</i>
+  H. Gong, A. Valido, K. Ingraham, G. Fanti, D. Espelage, S. Bhat <br>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17738">[AAAI 2021]</a>
+      <a href="https://github.com/HongyuGong/Abusive-Language-Detection-Categorization">[code] </a>
+      <a href="https://drive.google.com/file/d/149nQCmB6EAflW_22wltZnjmf_EPzg2N7/view?usp=sharing">[dataset] </a>
 
 ### 2020
 * <b>Communication cost of consensus for nodes with limited memory</b> <br>
