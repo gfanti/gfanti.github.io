@@ -7,7 +7,9 @@ author_profile: false
 
 
 ### Organizing Committees
+* IEEE Transactions on Networking, Associate Editor (2023-present)
 * ACM Sigmetrics Student Activities (Co-)Chair (2021, 2023)
+* Co-Chair, <a href="https://www.africa.engineering.cmu.edu/research/cylab/summit.html"> CyLab-Africa Summit on Digital Public Goods</a> (2022)
 * ACM Sigmetrics Equality and Diversity Committee (2019-present)
 * NDSS Workshop Committee Co-Chair (2018-2020)
 * ACM Sigmetrics Registration Chair (2020)

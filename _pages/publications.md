@@ -4,10 +4,25 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+### 2023
+* <b>Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection</b> 
+<br>
+  A. Goldberg, G. Fanti, N.B. Shah <br>
+  <a href="https://arxiv.org/pdf/2211.12686">[SIGMETRICS 2023]</a>
+        <br>
+
 ### 2022
-* <b>Missing Key: </b> <br>
+* <b>Privacy in cross-border digital currency: A transatlantic approach</b> <br>
+        G. Fanti, N. Pocher<br>
+        <a href="https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/privacy-in-cross-border-digital-currency-a-transatlantic-approach/">[Atlantic Council White paper]</a>
+        <br>
+* <b>Missing Key: The challenge of cybersecurity and central bank digital currency</b> <br>
         G. Fanti, K. Kostiainen, W. Howlett, J. Lipsky, O. Moehr, J.P. Schnapper-Casteras, and J. Wolff<br>
-        <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/missing-key/">[Atlantic Council]</a>
+        <a href="https://www.atlanticcouncil.org/in-depth-research-reports/report/missing-key/">[Atlantic Council White paper]</a>
+        <br>
+* <b>Distance-Aware Private Set Intersection</b> <br>
+        Chakraborti, Anrin, Giulia Fanti, and Michael K. Reiter<br>
+        <a href="https://arxiv.org/pdf/2112.14737">[USENIX Security 2022]</a>
         <br>
 * <b>Towards a Defense against Backdoor Attacks in
 Continual Federated Learning</b> <br>

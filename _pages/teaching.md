@@ -15,9 +15,11 @@ author_profile: false
 * Spring 2018
 * Spring 2019
 * Spring 2021
+* Spring 2023
 
 
 
 ### [Foundations of Privacy](https://course.ece.cmu.edu/~ece734/)
 * Fall 2019
 * Fall 2020
+* <a href="https://foundprivacy.github.io/">Fall 2022</a>

@@ -21,12 +21,12 @@ I am an assistant professor of <a href="https://ece.cmu.edu">Electrical and Comp
 * 2/15/2021: Thank you to the Alfred P. Sloan Foundation for a <a href="https://sloan.org/fellowships/2021-Fellows">Sloan Research Fellowship</a> to study transparency and data sharing.
 * 12/18/20: Check out Zinan Lin's blog post about our work on <a href="https://blog.apnic.net/2020/12/18/doppelganger-a-new-tool-for-sharing-time-series-data-with-gans/">DoppelGANger: A new tool for sharing time series data with GANs</a>
 DoppelGANger: A new tool for sharing time series data with GANs
+{% comment %}
 * 11/05/2020: Thank you to the U.S. Air Force Research Laboratory for a <a href="https://www.afrl.af.mil/News/Article-Display/Article/2406086/afosr-awards-grants-to-36-scientists-and-engineers-through-its-young-investigat/">Young Investigator Program research grant</a> on analyzing the privacy properties of complex networks.
 * 10/28/20: Our work on generating synthetic time series datasets with DoppelGANger (joint work with <a href="http://www.andrew.cmu.edu/user/zinanl/">Zinan Lin</a>, <a href="https://www.linkedin.com/in/alankar-jain-5835ab5a">Alankar Jain</a>, <a href="https://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=ibm-Chen.Wang1&t=1">Chen Wang</a>, and <a href="https://users.ece.cmu.edu/~vsekar/">Vyas Sekar</a>) was a finalist for the Best Paper Award at ACM IMC 2020.
 * 7/25/20: Zinan Lin was selected for the 2020-2021 CyLab Presidential Fellowship Award. Congratulations, Zinan!
 * 4/10/20: Thanks to JP Morgan Chase for a Faculty Research Award (with <a href="https://users.ece.cmu.edu/~vsekar/">Vyas Sekar</a>) on generating synthetic time series datasets.
 * 3/15/20: Thanks to Google for a Faculty Research Award (with <a href="https://homes.cs.washington.edu/~sewoong/">Sewoong Oh</a>) on federated learning of disentangled generative models.
-{% comment %}
 * 12/12/19: Zinan Lin was selected for the 2019-2020 Siemens FutureMaker Fellowship Award. Congratulations, Zinan!
 * 7/24/19: Honored to be re-appointed as Fellow for the World Economic Forum's Global Future Council on Cybersecurity
 * 7/3/19: "<a href="http://swoh.web.engr.illinois.edu/polling.pdf">Barracuda: The Power of l-Polling in Proof-of-Stake Blockchains</a>", with Jiantao Jiao, Ashok Makkuva, Sewoong Oh, Ranvir Rana, and Pramod Viswanath, won the Best Paper Award at MobiHoc 2019.
@@ -38,4 +38,4 @@ DoppelGANger: A new tool for sharing time series data with GANs
 {% endcomment %}
 
 ## Short Bio
-Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems. She is a two-time fellow of the World Economic Forum’s Global Future Council on Cybersecurity and a member of NIST's Information Security and Privacy Advisory Board. Her work has been recognized with best paper awards (Sigmetrics and MobiHoc),  a Sloan Fellowship, an Intel Rising Star Faculty Research Award, a U.S. Air Force Research Laboratory Young Investigator Grant, and faculty research awards from Google and JP Morgan Chase. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.
+Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems. She is a two-time fellow of the World Economic Forum’s Global Future Council on Cybersecurity and a member of NIST’s Information Security and Privacy Advisory Board. Her work has been recognized with several awards, including best paper awards, a Sloan Fellowship, an Intel Rising Star Faculty Award, and an ACM SIGMETRICS Rising Star Award. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.

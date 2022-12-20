@@ -7,16 +7,13 @@ author_profile: false
 I am fortunate to work with an incredibly talented and creative group of students and postdocs.
 
 ### Postdocs
-
-<img src="{{site.url}}/images/students/edith.jpeg" width="150px"> <a href="https://scholar.google.com/citations?user=WNWHW48AAAAJ&hl=en&oi=ao">Edith Luhanga</a> (co-advised with Assane Gueye)
-
 <img src="{{site.url}}/images/students/karen.jpeg" width="150px"> <a href="https://kawinita.github.io/">Karen Sowon</a> (co-advised with Assane Gueye, Conrad Tucker)
 
+<img src="{{site.url}}/images/students/saar.jpg" width="150px"> <a href="https://saart.github.io/">Saar Tochner</a> (co-advised with Vyas Sekar)
+
+
 ### Ph.D. Students
-
-<img src="{{site.url}}/images/students/zinan.jpg" width="150px"> <a href="http://www.andrew.cmu.edu/user/zinanl/">Zinan Lin</a> (co-advised with Vyas Sekar)
-
-<img src="{{site.url}}/images/students/weizhao.png" width="150px"> <a href="">Weizhao Tang</a>
+<img src="{{site.url}}/images/students/weizhao.png" width="150px"> <a href="https://www.andrew.cmu.edu/user/wtang2/">Weizhao Tang</a>
 
 <img src="{{site.url}}/images/students/charlie.jpg" width="150px"> <a href="">Charlie Hou</a>
 
@@ -26,18 +23,26 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/akgoldberg.png" width="150px"> <a href="https://akgoldberg.github.io/">Alexander Goldberg</a> (co-advised with Nihar Shah)
 
+{% comment %}
 ### Undergraduates
 <img src="{{site.url}}/images/students/benedict.jpeg" width="150px"> <a href="https://github.com/BozeBro">Benedict Ozua</a>
+{% endcomment %}
 
 ### Former Students
 
 #### Postdocs
-* Paria Shirani (Ryerson University)
+* Edith Luhanga (CMU-Africa)
+* Paria Shirani (University of Ottawa)
+
+#### Ph.D. Students
+* Zinan Lin (Microsoft Research)
 
 #### M.S. Students
+* Minhao Jin
 * Hao Liang (Rice University)
 * Alankar Jain (Google)
 * Carolina Zarate (DoD)
 
 #### Undergraduate Students
+* Benedict Ozua
 * Kathleen Ruan
