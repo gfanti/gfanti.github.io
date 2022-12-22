@@ -23,6 +23,9 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/akgoldberg.png" width="150px"> <a href="https://akgoldberg.github.io/">Alexander Goldberg</a> (co-advised with Nihar Shah)
 
+### Visitors
+<img src="{{site.url}}/images/students/xinyi.jpeg" width="150px"> <a href="https://xinyi-xu.com/">Xinyi Xu</a> (NUS Ph.D. student advised by B.K.H. Low, C-S. Foo)
+
 {% comment %}
 ### Undergraduates
 <img src="{{site.url}}/images/students/benedict.jpeg" width="150px"> <a href="https://github.com/BozeBro">Benedict Ozua</a>
