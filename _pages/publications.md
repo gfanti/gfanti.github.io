@@ -10,6 +10,11 @@ author_profile: false
   A. Goldberg, G. Fanti, N.B. Shah <br>
   <a href="https://arxiv.org/pdf/2211.12686">[SIGMETRICS 2023]</a>
         <br>
+* <b>Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</b> <br>
+        W. Tang, L. Kiffer, G. Fanti, and A. Juels <br>
+        <a href="https://arxiv.org/pdf/2205.06837">[arXiv]</a>
+        <a href="https://github.com/WeizhaoT/geth_peri">[geth client code]</a>
+        <a href="https://github.com/WeizhaoT/Triangular-Latency-Simulator">[simulation code] </a><br>
 
 ### 2022
 * <b>Privacy in cross-border digital currency: A transatlantic approach</b> <br>
@@ -35,11 +40,6 @@ Continual Federated Learning</b> <br>
         <a href="">[SIGCOMM 2022]</a>
         <a href="">[code]</a>
         <br>
-* <b>Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</b> <br>
-        W. Tang, L. Kiffer, G. Fanti, and A. Juels <br>
-        <a href="https://arxiv.org/pdf/2205.06837">[arXiv]</a>
-        <a href="https://github.com/WeizhaoT/geth_peri">[geth client code]</a>
-        <a href="https://github.com/WeizhaoT/Triangular-Latency-Simulator">[simulation code] </a><br>
 * <b>FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning</b> <br>
         C. Hou, K. K. Thekumparampil, G. Fanti, S. Oh <br>
         (Presented at the <a href="http://federated-learning.org/fl-icml-2021/">FL-ICML 2021 Workshop</a>, Oral) <br>
