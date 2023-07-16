@@ -34,15 +34,15 @@ I am fortunate to work with an incredibly talented and creative group of student
 ### Former Students
 
 #### Postdocs
-* Edith Luhanga (CMU-Africa)
-* Paria Shirani (University of Ottawa)
+* Edith Luhanga (Faculty at CMU-Africa)
+* Paria Shirani (Faculty at University of Ottawa)
 
 #### Ph.D. Students
 * Zinan Lin (Microsoft Research)
 
 #### M.S. Students
-* Minhao Jin
-* Hao Liang (Rice University)
+* Minhao Jin (Ph.D. at Princeton)
+* Hao Liang (Ph.D. at Rice University)
 * Alankar Jain (Google)
 * Carolina Zarate (DoD)
 

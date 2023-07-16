@@ -12,9 +12,19 @@ author_profile: false
         <br>
 * <b>Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</b> <br>
         W. Tang, L. Kiffer, G. Fanti, and A. Juels <br>
-        <a href="https://arxiv.org/pdf/2205.06837">[arXiv]</a>
+        <a href="https://arxiv.org/pdf/2205.06837">[SIGMETRICS 2023]</a>
         <a href="https://github.com/WeizhaoT/geth_peri">[geth client code]</a>
         <a href="https://github.com/WeizhaoT/Triangular-Latency-Simulator">[simulation code] </a><br>
+* <b>Summary Statistic Privacy in Data Sharing</b> <br>
+        Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
+        <a href="https://arxiv.org/pdf/2303.02014">[arXiv]</a>
+        <a href="https://github.com/fjxmlzn/summary_statistic_privacy">[code]</a> <i>*Equal contribution</i> <br>
+* <b>Towards a Defense against Backdoor Attacks in
+Continual Federated Learning</b> <br>
+        S. Wang, J. Hayase, G. Fanti, and S. Oh <br>
+        <a href="https://arxiv.org/abs/2205.11736">[arXiv]</a>
+        <a href="https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning">[code]</a>
+        <br>
 
 ### 2022
 * <b>Privacy in cross-border digital currency: A transatlantic approach</b> <br>
@@ -28,12 +38,6 @@ author_profile: false
 * <b>Distance-Aware Private Set Intersection</b> <br>
         Chakraborti, Anrin, Giulia Fanti, and Michael K. Reiter<br>
         <a href="https://arxiv.org/pdf/2112.14737">[USENIX Security 2022]</a>
-        <br>
-* <b>Towards a Defense against Backdoor Attacks in
-Continual Federated Learning</b> <br>
-        S. Wang, J. Hayase, G. Fanti, and S. Oh <br>
-        <a href="https://arxiv.org/abs/2205.11736">[arXiv]</a>
-        <a href="https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning">[code]</a>
         <br>
 * <b>Practical GAN-based Synthetic IP Header Trace Generation using NetShare</b> <br>
         Y. Yin, Z. Lin, M. Jin, G. Fanti, and V. Sekar <br>
