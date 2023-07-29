@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2023
+* <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
+<br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
+<br> <a href="">[ICML MFPL Workshop 2023 (Oral)]</a>
+<br>
+* <b>The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania</b>
+<br>K. Sowon, E. Luhanga, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
+<br> <a href="">[IEEE S&P 2024]</a>
+<br>
+* <b>Towards a Defense against Backdoor Attacks in
+Continual Federated Learning</b> <br>
+        S. Wang, J. Hayase, G. Fanti, and S. Oh <br>
+        <a href="https://arxiv.org/abs/2205.11736">[TMLR]</a>
+        <a href="https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning">[code]</a>
+        <br>
 * <b>Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection</b> 
 <br>
   A. Goldberg, G. Fanti, N.B. Shah <br>
@@ -19,12 +33,6 @@ author_profile: false
         Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
         <a href="https://arxiv.org/pdf/2303.02014">[arXiv]</a>
         <a href="https://github.com/fjxmlzn/summary_statistic_privacy">[code]</a> <i>*Equal contribution</i> <br>
-* <b>Towards a Defense against Backdoor Attacks in
-Continual Federated Learning</b> <br>
-        S. Wang, J. Hayase, G. Fanti, and S. Oh <br>
-        <a href="https://arxiv.org/abs/2205.11736">[arXiv]</a>
-        <a href="https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning">[code]</a>
-        <br>
 
 ### 2022
 * <b>Privacy in cross-border digital currency: A transatlantic approach</b> <br>

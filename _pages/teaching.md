@@ -22,4 +22,5 @@ author_profile: false
 ### [Foundations of Privacy](https://course.ece.cmu.edu/~ece734/)
 * Fall 2019
 * Fall 2020
-* <a href="https://foundprivacy.github.io/">Fall 2022</a>
+* <a href="https://foundprivacy.github.io/">Fall 2022</a>  (co-taught with Steven Wu)
+* <a href="https://foundprivacy.github.io/">Fall 2023</a> (co-taught with Steven Wu)
