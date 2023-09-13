@@ -11,7 +11,8 @@ redirect_from:
 I am an assistant professor of <a href="https://ece.cmu.edu">Electrical and Computer Engineering</a> at Carnegie Mellon University. I have a courtesy appointment in the <a href="https://www.csd.cs.cmu.edu/">Computer Science Department</a> and am a part of  <a href="https://www.cylab.cmu.edu">CyLab</a>. My group's <a href="/research">research focus</a> is on the security and privacy implications of **data transparency and sharing**. As part of this focus, my research interests span the algorithmic and theoretical foundations of distributed systems, machine learning, and privacy-enhancing technologies. I am also a co-director of <a href="https://www.cylab.cmu.edu/research/africa/index.html">CyLab Africa</a> alongside <a href="https://www.africa.engineering.cmu.edu/faculty-and-staff/directory/bios/gueye-assane.html">Assane Gueye</a>. 
 
 ## News
-* 6/13/22: Congratulations to Edith Luhanga for winning the Women in STEM Award from the Next Einstein Forum!
+* 8/28/23: Congratulations to Karen Sowon for being named an <a href="https://eecsrisingstars2023.cc.gatech.edu/"> EECS Rising Star</a>!
+* 8/21/23: Congratulations to Mingxun Zhou for being named a <a href="https://www.cylab.cmu.edu/news/2023/08/21-presidential-fellows.html">2023 CyLab Presidential Fellow</a>!
 * 5/25/22: New blog post from Weizhao Tang about our work (with Lucianna Kiffer and Ari Juels) on <a href="https://medium.com/initc3org/strategic-latency-reduction-in-blockchain-peer-to-peer-networks-6599bf38fd53">Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</a>
 * 5/12/2022: I am honored to receive the <a href="">SIGMETRICS Rising Star Award</a> for 2022.
 * 5/29/2022: I am thrilled to join the Atlantic Council as a <a href="">Senior Fellow</a>.
