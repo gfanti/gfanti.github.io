@@ -7,11 +7,24 @@ author_profile: false
 ### 2023
 * <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
 <br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
-<br> <a href="">[ICML MFPL Workshop 2023 (Oral)]</a>
+<br> <a href="https://arxiv.org/pdf/2308.00177">[ICML MFPL Workshop 2023 (Oral)]</a>
+<br>
+* <b>Gen-T: Reduce Distributed Tracing Operational Costs Using Generative Models</b>
+<br>S. Tochner, G. Fanti, V. Sekar
+<br> <a href="https://openreview.net/forum?id=UVh8QBeWlN">[Temporal Graph Learning Workshop @ NeurIPS 2023]</a>
+<br>
+* <b>Raft-Forensics: High Performance CFT Consensus with Accountability for Byzantine Faults</b> <br>
+        W. Tang, P. Sheng, P. Roy, X. Wang, G. Fanti, and A. Juels <br>
+        <a href="https://arxiv.org/abs/2305.09123">[arXiv]</a>
+        <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
+        <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
+* <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
+<br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
+<br> <a href="https://arxiv.org/pdf/2311.00830">[arxiv]</a>
 <br>
 * <b>The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania</b>
 <br>K. Sowon, E. Luhanga, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
-<br> <a href="">[IEEE S&P 2024]</a>
+<br> <a href="https://arxiv.org/pdf/2309.00226">[IEEE S&P 2024]</a>
 <br>
 * <b>Towards a Defense against Backdoor Attacks in
 Continual Federated Learning</b> <br>

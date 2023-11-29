@@ -7,7 +7,7 @@ author_profile: false
 
 
 ### Organizing Committees
-* ACM SIGMETRICS 2024 TPC Co-Chair (with Florin Ciucu and Rhonda Righter)
+* ACM SIGMETRICS/Performance 2024 TPC Co-Chair (with Florin Ciucu and Rhonda Righter)
 * IEEE Transactions on Networking, Associate Editor (2023-present)
 * ACM Sigmetrics Student Activities (Co-)Chair (2021, 2023)
 * Co-Chair, <a href="https://www.africa.engineering.cmu.edu/research/cylab/summit.html"> CyLab-Africa Summit on Digital Public Goods</a> (2022)
