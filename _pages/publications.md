@@ -9,12 +9,16 @@ author_profile: false
 <br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
 <br> <a href="https://arxiv.org/pdf/2308.00177">[ICML MFPL Workshop 2023 (Oral)]</a>
 <br>
+* <b>Mixture-of-Linear-Experts for Long-term Time Series Forecasting</b>
+<br>R. Ni, Z. Lin, S. Wang, G. Fanti
+<br> <a href="">[arxiv]</a>
+<br>
 * <b>Gen-T: Reduce Distributed Tracing Operational Costs Using Generative Models</b>
 <br>S. Tochner, G. Fanti, V. Sekar
 <br> <a href="https://openreview.net/forum?id=UVh8QBeWlN">[Temporal Graph Learning Workshop @ NeurIPS 2023]</a>
 <br>
 * <b>Raft-Forensics: High Performance CFT Consensus with Accountability for Byzantine Faults</b> <br>
-        W. Tang, P. Sheng, P. Roy, X. Wang, G. Fanti, and A. Juels <br>
+        W. Tang, P. Sheng, P. Roy, X. Wang, G. Fanti, and P. Viswanath <br>
         <a href="https://arxiv.org/abs/2305.09123">[arXiv]</a>
         <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
         <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
