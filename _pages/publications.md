@@ -11,7 +11,7 @@ author_profile: false
 <br>
 * <b>Mixture-of-Linear-Experts for Long-term Time Series Forecasting</b>
 <br>R. Ni, Z. Lin, S. Wang, G. Fanti
-<br> <a href="">[arxiv]</a>
+<br> <a href="https://arxiv.org/abs/2312.06786">[arxiv]</a>
 <br>
 * <b>Gen-T: Reduce Distributed Tracing Operational Costs Using Generative Models</b>
 <br>S. Tochner, G. Fanti, V. Sekar
