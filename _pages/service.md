@@ -38,6 +38,7 @@ author_profile: false
         <a href="http://www.acmmm.org/2017/">ACM Multimedia</a> ("Privacy Implications of Multimedia" area)
 
 ### Conference Tutorials
+* Performance 2023 <i>The Theory and Practice of Deep Generative Models</i>
 * ISIT 2017 <i>(Finding and Hiding Message Sources in Networks: Epidemics, Social Media, and Cryptocurrencies)</i>
 
 ### Reviewer
