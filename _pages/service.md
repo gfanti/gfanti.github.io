@@ -7,6 +7,7 @@ author_profile: false
 
 
 ### Organizing Committees
+* USENIX Security 2025 Vice-Chair
 * ACM SIGMETRICS/Performance 2024 TPC Co-Chair (with Florin Ciucu and Rhonda Righter)
 * IEEE Transactions on Networking, Associate Editor (2023-present)
 * ACM Sigmetrics Student Activities (Co-)Chair (2021, 2023)
@@ -17,6 +18,7 @@ author_profile: false
 * ACM POMACS Information Director (2017-present)
 
 ### Program Committes
+* 2025: <a href="https://sp2025.ieee-security.org/"> IEEE Security & Privacy 2025</a>
 * 2023: <a href="">IEEE Security & Privacy</a>, <a href="https://www.usenix.org/conference/nsdi23">NSDI</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">Usenix Security</a>, <a href="">ACM SIGMETRICS</a>
 * 2022: <a href="https://www.sigmetrics.org/sigmetrics2022/">Sigmetrics</a>, <a href="https://www.usenix.org/conference/nsdi22">NSDI</a>
 * 2021: <a href="https://www.ieee-security.org/TC/SP2021/cfpapers.html">IEEE Security & Privacy</a>,
