@@ -8,22 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of <a href="https://ece.cmu.edu">Electrical and Computer Engineering</a> at Carnegie Mellon University. I have a courtesy appointment in the <a href="https://www.csd.cs.cmu.edu/">Computer Science Department</a> and am a part of  <a href="https://www.cylab.cmu.edu">CyLab</a>. My group's <a href="/research">research focus</a> is on the security and privacy implications of **data transparency and sharing**. As part of this focus, my research interests span the algorithmic and theoretical foundations of distributed systems, machine learning, and privacy-enhancing technologies. I am also a co-director of <a href="https://www.cylab.cmu.edu/research/africa/index.html">CyLab Africa</a> alongside <a href="https://www.africa.engineering.cmu.edu/faculty-and-staff/directory/bios/gueye-assane.html">Assane Gueye</a>.  
+I am an assistant professor of <a href="https://ece.cmu.edu">Electrical and Computer Engineering</a> at Carnegie Mellon University. I have a courtesy appointment in the <a href="https://www.csd.cs.cmu.edu/">Computer Science Department</a> and am a part of  <a href="https://www.cylab.cmu.edu">CyLab</a>. My group's <a href="/research">research focus</a> is on the security and privacy implications of **data transparency and sharing**. As part of this focus, my research interests span the algorithmic and theoretical foundations of distributed systems, machine learning, and privacy-enhancing technologies. I am also a co-director of <a href="https://www.cylab.cmu.edu/research/africa/index.html">CyLab-Africa</a> and <a href="https://www.africa.engineering.cmu.edu/research/upanzi/index.html">the Upanzi Network</a> alongside <a href="https://www.africa.engineering.cmu.edu/faculty-and-staff/directory/bios/gueye-assane.html">Assane Gueye</a>.  
 
 ## News
+* 3/28/24: I am honored to join the UN's <a href="https://www.dpi-safeguards.org/">Digital Public Infrastructure Safeguards Working Group</a>, working on guidelines for the responsible deployment of DPI
 * 2/1/24: Thank you to the NSF for a <a href="https://www.ece.cmu.edu/news-and-events/story/2024/01/nsf-career-awards.html">CAREER Award</a> on privacy and utility metrics for enterprise data sharing 
 * 8/28/23: Congratulations to Karen Sowon for being named an <a href="https://eecsrisingstars2023.cc.gatech.edu/"> EECS Rising Star</a>!
 * 8/21/23: Congratulations to Mingxun Zhou for being named a <a href="https://www.cylab.cmu.edu/news/2023/08/21-presidential-fellows.html">2023 CyLab Presidential Fellow</a>!
 * 5/25/22: New blog post from Weizhao Tang about our work (with Lucianna Kiffer and Ari Juels) on <a href="https://medium.com/initc3org/strategic-latency-reduction-in-blockchain-peer-to-peer-networks-6599bf38fd53">Strategic Latency Reduction in Blockchain Peer-to-Peer Networks</a>
 * 5/12/2022: I am honored to receive the <a href="">SIGMETRICS Rising Star Award</a> for 2022.
 * 5/29/2022: I am thrilled to join the Atlantic Council as a <a href="">Senior Fellow</a>.
+{% comment %}
 * 5/25/22: New blog post from Zinan Lin about our work (with Vyas Sekar) on <a href="https://blog.ml.cmu.edu/2022/01/21/why-spectral-normalization-stabilizes-gans-analysis-and-improvements/">why spectral normaliation stabilies GANs</a>
 * 9/15/2021: Many thanks to Intel for a <a href="https://www.intel.com/content/www/us/en/research/blogs/rising-star-faculty-award-21.html">Rising Star Faculty Award</a> to study transparency and data sharing.
 * 8/2/2021: I am honored to join the NIST <a href="https://csrc.nist.gov/projects/ispab">Information Security and Privacy Advisory Board</a> 
 * 2/15/2021: Thank you to the Alfred P. Sloan Foundation for a <a href="https://sloan.org/fellowships/2021-Fellows">Sloan Research Fellowship</a> to study transparency and data sharing.
 * 12/18/20: Check out Zinan Lin's blog post about our work on <a href="https://blog.apnic.net/2020/12/18/doppelganger-a-new-tool-for-sharing-time-series-data-with-gans/">DoppelGANger: A new tool for sharing time series data with GANs</a>
 DoppelGANger: A new tool for sharing time series data with GANs
-{% comment %}
 * 11/05/2020: Thank you to the U.S. Air Force Research Laboratory for a <a href="https://www.afrl.af.mil/News/Article-Display/Article/2406086/afosr-awards-grants-to-36-scientists-and-engineers-through-its-young-investigat/">Young Investigator Program research grant</a> on analyzing the privacy properties of complex networks.
 * 10/28/20: Our work on generating synthetic time series datasets with DoppelGANger (joint work with <a href="http://www.andrew.cmu.edu/user/zinanl/">Zinan Lin</a>, <a href="https://www.linkedin.com/in/alankar-jain-5835ab5a">Alankar Jain</a>, <a href="https://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=ibm-Chen.Wang1&t=1">Chen Wang</a>, and <a href="https://users.ece.cmu.edu/~vsekar/">Vyas Sekar</a>) was a finalist for the Best Paper Award at ACM IMC 2020.
 * 7/25/20: Zinan Lin was selected for the 2020-2021 CyLab Presidential Fellowship Award. Congratulations, Zinan!
