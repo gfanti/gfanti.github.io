@@ -25,6 +25,10 @@ author_profile: false
 <br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti
 <br> <a href="">[SOUPS 2024]</a>
 <br>
+* <b>Statistic Maximal Leakage</b>
+<br>S. Wang, Z. Lin, G. Fanti
+<br> <a href="">[ISIT 2024]</a>
+<br>
 * <b>Summary Statistic Privacy in Data Sharing</b> <br>
         Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
         <a href="https://arxiv.org/pdf/2303.02014">[JSAIT, Special Issue on Trustworthy ML]</a>
