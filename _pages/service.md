@@ -19,6 +19,7 @@ author_profile: false
 
 ### Program Committes
 * 2025: <a href="https://sp2025.ieee-security.org/"> IEEE Security & Privacy 2025</a>
+* 2024: <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>
 * 2023: <a href="">IEEE Security & Privacy</a>, <a href="https://www.usenix.org/conference/nsdi23">NSDI</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">Usenix Security</a>, <a href="">ACM SIGMETRICS</a>
 * 2022: <a href="https://www.sigmetrics.org/sigmetrics2022/">Sigmetrics</a>, <a href="https://www.usenix.org/conference/nsdi22">NSDI</a>
 * 2021: <a href="https://www.ieee-security.org/TC/SP2021/cfpapers.html">IEEE Security & Privacy</a>,
@@ -42,7 +43,7 @@ author_profile: false
 * ISIT 2017 <i>(Finding and Hiding Message Sources in Networks: Epidemics, Social Media, and Cryptocurrencies)</i>
 
 ### Reviewer
-* NeurIPS (2019-present)
+* NeurIPS (2019-2023)
 * ICML (2019-present)
 * IEEE Trans. on Information Theory (IT Transactions)
 * IEEE Trans. on Networking (ToN)

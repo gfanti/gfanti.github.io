@@ -11,6 +11,10 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %} -->
 
+### Deep Generative Models 
+* Spring 2024 (co-taught with Beidi Chen)
+
+
 ### Optimization
 * Spring 2018
 * Spring 2019
@@ -24,3 +28,4 @@ author_profile: false
 * Fall 2020
 * <a href="https://foundprivacy.github.io/">Fall 2022</a>  (co-taught with Steven Wu)
 * <a href="https://foundprivacy.github.io/">Fall 2023</a> (co-taught with Steven Wu)
+* <a href="https://foundprivacy.github.io/">Fall 2024</a> (co-taught with Steven Wu)

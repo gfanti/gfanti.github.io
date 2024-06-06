@@ -13,6 +13,22 @@ author_profile: false
 <br>W. Dong, Q. Liu, G. Fanti, E. Shi, K. Yi
 <br> <a href="https://arxiv.org/html/2403.10116v1">[arXiv 2024]</a>
 <br>
+* <b>PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs</b>
+<br>C. Hou, A. Shrivastava, H. Zhan, R. Conway, T. Le, A. Sagar, G. Fanti, D. Lazar 
+<br> 
+<b><font color="purple">(Oral Presentation @ ICML 2024)</font></b><br>
+ <b><font color="purple">(Honorable Mention, Best Paper Award, PML Workshop @ ICLR 2024)</font></b><br>
+ <a href="https://arxiv.org/abs/2406.02958">[ICML 2024]</a> 
+ <a href="https://github.com/houcharlie/PrE-Text">[code] </a>
+<br>
+* <b>Privacy Requirements and Realities of Digital Public Goods</b>
+<br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti
+<br> <a href="">[SOUPS 2024]</a>
+<br>
+* <b>Summary Statistic Privacy in Data Sharing</b> <br>
+        Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
+        <a href="https://arxiv.org/pdf/2303.02014">[JSAIT, Special Issue on Trustworthy ML]</a>
+        <a href="https://github.com/fjxmlzn/summary_statistic_privacy">[code]</a> <i>*Equal contribution</i> <br>
 * <b>Mixture-of-Linear-Experts for Long-term Time Series Forecasting</b>
 <br>R. Ni, Z. Lin, S. Wang, G. Fanti
 <br> <a href="https://arxiv.org/abs/2312.06786">[AISTATS 2024]</a>
@@ -60,10 +76,6 @@ Continual Federated Learning</b> <br>
         <a href="https://arxiv.org/pdf/2205.06837">[SIGMETRICS 2023]</a>
         <a href="https://github.com/WeizhaoT/geth_peri">[geth client code]</a>
         <a href="https://github.com/WeizhaoT/Triangular-Latency-Simulator">[simulation code] </a><br>
-* <b>Summary Statistic Privacy in Data Sharing</b> <br>
-        Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
-        <a href="https://arxiv.org/pdf/2303.02014">[arXiv]</a>
-        <a href="https://github.com/fjxmlzn/summary_statistic_privacy">[code]</a> <i>*Equal contribution</i> <br>
 
 ### 2022
 * <b>Privacy in cross-border digital currency: A transatlantic approach</b> <br>

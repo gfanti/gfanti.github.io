@@ -11,7 +11,7 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/karen.jpeg" width="150px"> <a href="https://kawinita.github.io/">Karen Sowon</a> (co-advised with Assane Gueye, Conrad Tucker)
 
-<img src="{{site.url}}/images/students/saar.jpg" width="150px"> <a href="https://saart.github.io/">Saar Tochner</a> (co-advised with Vyas Sekar)
+<!-- <img src="{{site.url}}/images/students/saar.jpg" width="150px"> <a href="https://saart.github.io/">Saar Tochner</a> (co-advised with Vyas Sekar) -->
 
 
 ### Ph.D. Students
@@ -27,14 +27,7 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/sangyun.jpeg" width="150px"> <a href="https://sangyun884.github.io/about/">Sangyun Lee</a>
 
-### Masters Students
-<img src="" width="150px"> <a href="https://www.linkedin.com/in/geetikagopi">Geetika Gopi</a>
-
-<img src="" width="150px"> <a href="https://www.linkedin.com/in/seoyoung-ko">Seo Young (Dorothy) Ko</a>
-
-<img src="" width="150px"> <a href="https://www.linkedin.com/in/aadyaa-maddi">Aadyaa Maddi</a>
-
-<img src="" width="150px"> <a href="https://www.linkedin.com/in/ronghao-ni">Ronghao Ni</a>
+<!-- ### Masters Students -->
 
 
 ### Visitors
@@ -51,6 +44,7 @@ I am fortunate to work with an incredibly talented and creative group of student
 ### Former Students
 
 #### Postdocs
+* Saar Tochner
 * Edith Luhanga (Faculty at CMU-Africa)
 * Paria Shirani (Faculty at University of Ottawa)
 
@@ -58,6 +52,10 @@ I am fortunate to work with an incredibly talented and creative group of student
 * Zinan Lin (Microsoft Research)
 
 #### M.S. Students
+* Ronghao Ni (Ph.D. at CMU)
+* Geetika Gopi (Privacy Specialist, Amazon)
+* Aadyaa Maddi (ML Engineer, Rockfish Data)
+* Seo Young (Dorothy) Ko (Senior Data Engineer, Visa)
 * Minhao Jin (Ph.D. at Princeton)
 * Hao Liang (Ph.D. at Rice University)
 * Alankar Jain (Google)
