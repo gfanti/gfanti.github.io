@@ -17,6 +17,15 @@ author_profile: false
 <br>W. Dong, Q. Liu, G. Fanti, E. Shi, K. Yi
 <br> <a href="https://arxiv.org/html/2403.10116v1">[arXiv 2024]</a>
 <br>
+* <b>CONAN: Distributed Proofs of Compliance for Anonymous Data Collection</b>
+<br>M. Zhou, G. Fanti, E. Shi
+<br> <a href="https://eprint.iacr.org/2023/1900.pdf">[CCS 2024]</a>
+<br>
+* <b>Raft-Forensics: High Performance CFT Consensus with Accountability for Byzantine Faults</b> <br>
+        W. Tang, P. Sheng, P. Roy, X. Wang, G. Fanti, and P. Viswanath <br>
+        <a href="https://arxiv.org/abs/2305.09123">[AFT 2024]</a>
+        <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
+        <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
 * <b>PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs</b>
 <br>C. Hou, A. Shrivastava, H. Zhan, R. Conway, T. Le, A. Sagar, G. Fanti, D. Lazar 
 <br> 
@@ -59,11 +68,6 @@ author_profile: false
 <br>S. Tochner, G. Fanti, V. Sekar
 <br> <a href="https://openreview.net/forum?id=UVh8QBeWlN">[Temporal Graph Learning Workshop @ NeurIPS 2023]</a>
 <br>
-* <b>Raft-Forensics: High Performance CFT Consensus with Accountability for Byzantine Faults</b> <br>
-        W. Tang, P. Sheng, P. Roy, X. Wang, G. Fanti, and P. Viswanath <br>
-        <a href="https://arxiv.org/abs/2305.09123">[arXiv]</a>
-        <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
-        <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
 * <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
 <br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
 <br> <a href="https://arxiv.org/pdf/2311.00830">[arxiv]</a>
