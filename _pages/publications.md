@@ -15,7 +15,7 @@ author_profile: false
 <br>
 * <b>Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy</b>
 <br>W. Dong, Q. Liu, G. Fanti, E. Shi, K. Yi
-<br> <a href="https://arxiv.org/html/2403.10116v1">[arXiv 2024]</a>
+<br> <a href="https://arxiv.org/html/2403.10116v1">[CCS 2024]</a>
 <br>
 * <b>CONAN: Distributed Proofs of Compliance for Anonymous Data Collection</b>
 <br>M. Zhou, G. Fanti, E. Shi
