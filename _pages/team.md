@@ -7,7 +7,7 @@ author_profile: false
 I am fortunate to work with an incredibly talented and creative group of students and postdocs.
 
 ### Postdocs
-<img src="{{site.url}}/images/students/wei.jpeg" width="150px"> <a href="https://weidong.hk/">Wei Dong</a> (co-advised with Elaine Shi)
+<!-- <img src="{{site.url}}/images/students/wei.jpeg" width="150px"> <a href="https://weidong.hk/">Wei Dong</a> (co-advised with Elaine Shi) -->
 
 <img src="{{site.url}}/images/students/karen.jpeg" width="150px"> <a href="https://kawinita.github.io/">Karen Sowon</a> (co-advised with Assane Gueye, Conrad Tucker)
 
@@ -17,8 +17,6 @@ I am fortunate to work with an incredibly talented and creative group of student
 ### Ph.D. Students
 <img src="{{site.url}}/images/students/weizhao.png" width="150px"> <a href="https://www.andrew.cmu.edu/user/wtang2/">Weizhao Tang</a>
 
-<img src="{{site.url}}/images/students/charlie.jpg" width="150px"> <a href="">Charlie Hou</a>
-
 <img src="{{site.url}}/images/students/shuaiqi.jpeg" width="150px"> <a href="">Shuaiqi Wang</a>
 
 <img src="{{site.url}}/images/students/mingxun.jpg" width="150px"> <a href="https://wuwuz.github.io/">Mingxun Zhou</a> (co-advised with Elaine Shi)
@@ -27,15 +25,18 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/sangyun.jpeg" width="150px"> <a href="https://sangyun884.github.io/about/">Sangyun Lee</a>
 
-<!-- ### Masters Students -->
+<img src="{{site.url}}/images/students/shuqi.jpeg" width="150px"> <a href="https://scholar.google.com/citations?user=c7m8_OwAAAAJ&hl=en">Shuqi Ke</a>
 
+<img src="{{site.url}}/images/students/tomas.jpeg" width="150px"> <a href="">Tomas Gonzalez Lara</a> (co-advised with Aaditya Ramdas)
 
-### Visitors
-<img src="" width="150px"> <a href="https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en">Prof. Rachid El Azouzi</a> University of Avignon
+### Masters Students
+<a href="https://scholar.google.com/citations?user=MTJhaC0AAAAJ&hl=en&oi=ao">Angad Ripudaman Bajwa</a>
 
-<img src="" width="150px"> <a href="https://scholar.google.com/citations?user=c7m8_OwAAAAJ&hl=en&oi=ao">Shuqi Ke</a> CUHK-Shenzhen
 
 {% comment %}
+### Visitors
+
+
 
 ### Undergraduates
 <img src="{{site.url}}/images/students/benedict.jpeg" width="150px"> <a href="https://github.com/BozeBro">Benedict Ozua</a>
@@ -44,12 +45,14 @@ I am fortunate to work with an incredibly talented and creative group of student
 ### Former Students
 
 #### Postdocs
+* Wei Dong (Faculty at NTU)
 * Saar Tochner
 * Edith Luhanga (Faculty at CMU-Africa)
 * Paria Shirani (Faculty at University of Ottawa)
 
 #### Ph.D. Students
 * Zinan Lin (Microsoft Research)
+* Charlie Hou (Meta)
 
 #### M.S. Students
 * Ronghao Ni (Ph.D. at CMU)
@@ -66,4 +69,5 @@ I am fortunate to work with an incredibly talented and creative group of student
 * Kathleen Ruan
 
 #### Visitors
+* Prof. Rachid El Azouzi (Faculty, University of Avignon)
 * Xinyi Xu (NUS Ph.D. student advised by B.K.H. Low, C-S. Foo)
