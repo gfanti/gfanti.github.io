@@ -11,7 +11,7 @@ author_profile: false
 <br>
 * <b>Data distribution valuation</b>
 <br>X. Xu, S. Wang, C. S. Foo, B.K.H. Low, G. Fanti
-<br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
+<br> <a href="https://arxiv.org/pdf/2410.04386">[NeurIPS 2024]</a>
 <br>
 * <b>On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?</b>
 <br>S. Ke, C. Hou, S. Oh, G. Fanti
