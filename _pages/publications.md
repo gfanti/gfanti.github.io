@@ -9,7 +9,7 @@ author_profile: false
 <br>S. Lee, Z. Lin, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
 <br>
-* <b>Data distribiution valuation</b>
+* <b>Data distribution valuation</b>
 <br>X. Xu, S. Wang, C. S. Foo, B.K.H. Low, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
 <br>
@@ -40,11 +40,11 @@ author_profile: false
 <br>
 * <b>Privacy Requirements and Realities of Digital Public Goods</b>
 <br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti
-<br> <a href="">[SOUPS 2024]</a>
+<br> <a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
 <br>
 * <b>Statistic Maximal Leakage</b>
 <br>S. Wang, Z. Lin, G. Fanti
-<br> <a href="">[ISIT 2024]</a>
+<br> <a href="https://ieeexplore.ieee.org/iel8/10619013/10619074/10619258.pdf">[ISIT 2024]</a>
 <br>
 * <b>Summary Statistic Privacy in Data Sharing</b> <br>
         Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
