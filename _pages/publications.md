@@ -21,11 +21,6 @@ author_profile: false
  <a href="https://arxiv.org/abs/2406.02958">[ICML 2024]</a> 
  <a href="https://github.com/houcharlie/PrE-Text">[code] </a>
 <br>
-* <b>Privacy Requirements and Realities of Digital Public Goods</b>
-<br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
-<b><font color="purple">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
-<a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
-<br>
 * <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
 <br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
 <br> <a href="https://arxiv.org/pdf/2308.00177">[TMLR, ICML MFPL Workshop 2023 (Oral)]</a>
@@ -37,6 +32,11 @@ author_profile: false
 * <b>Benchmarking Fraud Detectors on Private Graph Data</b>
 <br>A. Goldberg, G. Fanti, N. Shah, S. Wu
 <br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
+<br>
+* <b>Privacy Requirements and Realities of Digital Public Goods</b>
+<br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
+<b><font color="purple">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
+<a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
 <br>
 * <b>On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?</b>
 <br>S. Ke, C. Hou, S. Oh, G. Fanti
