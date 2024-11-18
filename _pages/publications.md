@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2024
+* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
+<br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
+<br> <a href="https://arxiv.org/abs/2411.10399">[arXiv]</a>
+<br>
+* <b>Benchmarking Fraud Detectors on Private Graph Data</b>
+<br>A. Goldberg, G. Fanti, N. Shah, S. Wu
+<br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
+<br>
 * <b>Improving the Training of Rectified Flows</b>
 <br>S. Lee, Z. Lin, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
