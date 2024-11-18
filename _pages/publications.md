@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2024
-* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
-<br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
-<br> <a href="https://arxiv.org/abs/2411.10399">[arXiv]</a>
-<br>
-* <b>Benchmarking Fraud Detectors on Private Graph Data</b>
-<br>A. Goldberg, G. Fanti, N. Shah, S. Wu
-<br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
-<br>
 * <b>Improving the Training of Rectified Flows</b>
 <br>S. Lee, Z. Lin, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
@@ -20,6 +12,31 @@ author_profile: false
 * <b>Data distribution valuation</b>
 <br>X. Xu, S. Wang, C. S. Foo, B.K.H. Low, G. Fanti
 <br> <a href="https://arxiv.org/pdf/2410.04386">[NeurIPS 2024]</a>
+<br>
+* <b>PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs</b>
+<br>C. Hou, A. Shrivastava, H. Zhan, R. Conway, T. Le, A. Sagar, G. Fanti, D. Lazar 
+<br> 
+<b><font color="purple">(Oral Presentation @ ICML 2024)</font></b><br>
+ <b><font color="purple">(Honorable Mention, Best Paper Award, PML Workshop @ ICLR 2024)</font></b><br>
+ <a href="https://arxiv.org/abs/2406.02958">[ICML 2024]</a> 
+ <a href="https://github.com/houcharlie/PrE-Text">[code] </a>
+<br>
+* <b>Privacy Requirements and Realities of Digital Public Goods</b>
+<br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
+<b><font color="purple">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
+<a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
+<br>
+* <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
+<br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
+<br> <a href="https://arxiv.org/pdf/2308.00177">[TMLR, ICML MFPL Workshop 2023 (Oral)]</a>
+<br>
+* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
+<br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
+<br> <a href="https://arxiv.org/abs/2411.10399">[arXiv]</a>
+<br>
+* <b>Benchmarking Fraud Detectors on Private Graph Data</b>
+<br>A. Goldberg, G. Fanti, N. Shah, S. Wu
+<br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
 <br>
 * <b>On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?</b>
 <br>S. Ke, C. Hou, S. Oh, G. Fanti
@@ -38,18 +55,6 @@ author_profile: false
         <a href="https://arxiv.org/abs/2305.09123">[AFT 2024]</a>
         <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
         <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
-* <b>PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs</b>
-<br>C. Hou, A. Shrivastava, H. Zhan, R. Conway, T. Le, A. Sagar, G. Fanti, D. Lazar 
-<br> 
-<b><font color="purple">(Oral Presentation @ ICML 2024)</font></b><br>
- <b><font color="purple">(Honorable Mention, Best Paper Award, PML Workshop @ ICLR 2024)</font></b><br>
- <a href="https://arxiv.org/abs/2406.02958">[ICML 2024]</a> 
- <a href="https://github.com/houcharlie/PrE-Text">[code] </a>
-<br>
-* <b>Privacy Requirements and Realities of Digital Public Goods</b>
-<br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti
-<br> <a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
-<br>
 * <b>Statistic Maximal Leakage</b>
 <br>S. Wang, Z. Lin, G. Fanti
 <br> <a href="https://ieeexplore.ieee.org/iel8/10619013/10619074/10619258.pdf">[ISIT 2024]</a>
@@ -72,10 +77,6 @@ author_profile: false
 <br>
 
 ### 2023
-* <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
-<br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
-<br> <a href="https://arxiv.org/pdf/2308.00177">[ICML MFPL Workshop 2023 (Oral)]</a>
-<br>
 * <b>Gen-T: Reduce Distributed Tracing Operational Costs Using Generative Models</b>
 <br>S. Tochner, G. Fanti, V. Sekar
 <br> <a href="https://openreview.net/forum?id=UVh8QBeWlN">[Temporal Graph Learning Workshop @ NeurIPS 2023]</a>
