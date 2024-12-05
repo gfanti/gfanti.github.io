@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2024
+* <b>Truncated Consistency Models</b>
+<br>S. Lee, Y. Xu, T. Geffner, G. Fanti, K. Kreis, A. Vadhat, W. Nie
+<br> <a href="https://arxiv.org/abs/2410.14895">[arXiv]</a>
+<br>
+* <b>Pacmann: Efficient Private Approximate Nearest Neighbor Search</b>
+<br>M. Zhou, E. Shi, G. Fanti
+<br> <a href="https://eprint.iacr.org/2024/1600">[arXiv]</a>
+<br>
 * <b>Improving the Training of Rectified Flows</b>
 <br>S. Lee, Z. Lin, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
