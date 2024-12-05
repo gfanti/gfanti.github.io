@@ -35,7 +35,7 @@ author_profile: false
 <br>
 * <b>Privacy Requirements and Realities of Digital Public Goods</b>
 <br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
-<b><font color="purple">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
+<b><font color="red">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
 <a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
 <br>
 * <b>On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?</b>
