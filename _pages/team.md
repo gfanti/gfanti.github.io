@@ -52,8 +52,8 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 #### Ph.D. Students
 * Weizhao Tang (Meta)
-* Zinan Lin (Microsoft Research)
 * Charlie Hou (Meta)
+* Zinan Lin (Microsoft Research)
 
 #### M.S. Students
 * Angad Ripudaman Bajwa (ML Eningeer, HPE)
