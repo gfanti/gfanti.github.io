@@ -4,15 +4,28 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-### 2024
+### 2025
+* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
+<br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
+<br> <a href="https://arxiv.org/abs/2411.10399">[SIGMETRICS 2025]</a>
+<br>
+* <b>Inferentially Private Private Information</b>
+<br>S. Wang, S. Zheng, Z. Lin, G. Fanti, S. Wu
+<br> <a href="">[WWW 2025]</a>
+<br>
 * <b>Truncated Consistency Models</b>
 <br>S. Lee, Y. Xu, T. Geffner, G. Fanti, K. Kreis, A. Vadhat, W. Nie
-<br> <a href="https://arxiv.org/abs/2410.14895">[arXiv]</a>
+<br> <a href="https://arxiv.org/abs/2410.14895">[ICLR 2025]</a>
 <br>
 * <b>Pacmann: Efficient Private Approximate Nearest Neighbor Search</b>
 <br>M. Zhou, E. Shi, G. Fanti
-<br> <a href="https://eprint.iacr.org/2024/1600">[arXiv]</a>
+<br> <a href="https://eprint.iacr.org/2024/1600">[ICLR 2025]</a>
 <br>
+* <b>Benchmarking Fraud Detectors on Private Graph Data</b>
+<br>A. Goldberg, G. Fanti, N. Shah, S. Wu
+<br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
+<br>
+### 2024
 * <b>Improving the Training of Rectified Flows</b>
 <br>S. Lee, Z. Lin, G. Fanti
 <br> <a href="https://arxiv.org/abs/2405.20320">[NeurIPS 2024]</a>
@@ -32,14 +45,6 @@ author_profile: false
 * <b>Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity</b>
 <br>C. Hou, K. K. Thekumparampil, M. Shavlovsky, G. Fanti, Y. Dattatreya, S. Sanghavi 
 <br> <a href="https://arxiv.org/pdf/2308.00177">[TMLR, ICML MFPL Workshop 2023 (Oral)]</a>
-<br>
-* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
-<br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
-<br> <a href="https://arxiv.org/abs/2411.10399">[arXiv]</a>
-<br>
-* <b>Benchmarking Fraud Detectors on Private Graph Data</b>
-<br>A. Goldberg, G. Fanti, N. Shah, S. Wu
-<br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
 <br>
 * <b>Privacy Requirements and Realities of Digital Public Goods</b>
 <br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
