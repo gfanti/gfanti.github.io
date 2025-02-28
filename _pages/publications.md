@@ -25,6 +25,7 @@ author_profile: false
 <br>A. Goldberg, G. Fanti, N. Shah, S. Wu
 <br> <a href="https://akgoldberg.github.io/files/private_fraud_benchmarking.pdf">[KDD 2025]</a>
 <br>
+
 ### 2024
 * <b>Improving the Training of Rectified Flows</b>
 <br>S. Lee, Z. Lin, G. Fanti
