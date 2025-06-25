@@ -8,6 +8,7 @@ author_profile: false
 
 ### Organizing Committees
 * USENIX Security 2025 Vice-Chair
+* Co-Organizer, ICLR 2025 <a href="https://synthetic-data-iclr.github.io/">Workshop on Synthetic Data</a>
 * ACM SIGMETRICS/Performance 2024 TPC Co-Chair (with Florin Ciucu and Rhonda Righter)
 * IEEE Transactions on Networking, Associate Editor (2023-present)
 * ACM Sigmetrics Student Activities (Co-)Chair (2021, 2023)

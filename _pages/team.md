@@ -17,7 +17,7 @@ I am fortunate to work with an incredibly talented and creative group of student
 ### Ph.D. Students
 <img src="{{site.url}}/images/students/shuaiqi.jpeg" width="150px"> <a href="">Shuaiqi Wang</a>
 
-<img src="{{site.url}}/images/students/mingxun.jpg" width="150px"> <a href="https://wuwuz.github.io/">Mingxun Zhou</a> (co-advised with Elaine Shi)
+<!-- <img src="{{site.url}}/images/students/mingxun.jpg" width="150px"> <a href="https://wuwuz.github.io/">Mingxun Zhou</a> (co-advised with Elaine Shi) -->
 
 <img src="{{site.url}}/images/students/akgoldberg.png" width="150px"> <a href="https://akgoldberg.github.io/">Alexander Goldberg</a> (co-advised with Nihar Shah)
 
@@ -51,6 +51,7 @@ I am fortunate to work with an incredibly talented and creative group of student
 * Paria Shirani (Faculty at University of Ottawa)
 
 #### Ph.D. Students
+* Mingxun Zhou (Faculty at HKUST)
 * Weizhao Tang (Meta)
 * Charlie Hou (Meta)
 * Zinan Lin (Microsoft Research)

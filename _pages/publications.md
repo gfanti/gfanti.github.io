@@ -9,6 +9,16 @@ author_profile: false
 <br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
 <br> <a href="https://arxiv.org/abs/2411.10399">[SIGMETRICS 2025]</a>
 <br>
+<b><font color="purple">(Best Paper Award Finalist @ SIGMETRICS 2025)</font></b><br>
+* <b>POPri: Private Federated Learning using Preference-Optimized Synthetic Data</b>
+<br>C. Hou, M.Y. Wang, Y. Zhu, D. Lazar, and G. Fanti
+<br> <a href="https://arxiv.org/abs/2504.16438">[ICML 2025]</a>
+<br>
+<b><font color="purple">(Honorable Mention for Best Paper Award @ ICLR 2025 Workshop on Synthetic Data)</font></b><br>
+* <b>Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya</b>
+<br>K. Sowon, C.W. Munyendo, L. Klucinec, E. Maingi, G. Suleh, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye
+<br> <a href="https://arxiv.org/abs/2412.18716">[SOUPS 2025]</a>
+<br>
 * <b>Inferentially Private Private Information</b>
 <br>S. Wang, S. Zheng, Z. Lin, G. Fanti, S. Wu
 <br> <a href="">[WWW 2025]</a>
