@@ -19,7 +19,8 @@ author_profile: false
 * ACM POMACS Information Director (2017-present)
 
 ### Program Committes
-* 2025: <a href="https://sp2025.ieee-security.org/"> IEEE Security & Privacy 2025</a>
+* 2026: <a href="https://www.sigmetrics.org/sigmetrics2026/"> ACM SIGMETRICS 2026</a>, <a href="https://www.sigsac.org/ccs/CCS2026/"> ACM CCS 2026</a>
+* 2025: <a href="https://sp2025.ieee-security.org/"> IEEE Security & Privacy 2025</a>, <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>
 * 2024: <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>
 * 2023: <a href="">IEEE Security & Privacy</a>, <a href="https://www.usenix.org/conference/nsdi23">NSDI</a>, <a href="https://www.usenix.org/conference/usenixsecurity23">Usenix Security</a>, <a href="">ACM SIGMETRICS</a>
 * 2022: <a href="https://www.sigmetrics.org/sigmetrics2022/">Sigmetrics</a>, <a href="https://www.usenix.org/conference/nsdi22">NSDI</a>

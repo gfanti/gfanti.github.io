@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2025
+* <b>Private Evolution Converges</b>
+<br>T. Gonzalez Lara, G. Fanti, A. Ramdas
+<br> <a href="https://arxiv.org/abs/2506.08312">[arXiv 2025]</a>
+<br>
+* <b>A Principled Approach to Randomized Selection under Uncertainty</b>
+<br>A. Goldberg, G. Fanti, N. Shah
+<br> <a href="https://arxiv.org/abs/2506.19083">[arXiv 2025]</a>
+<br>
+* <b>Strategic Analysis of Just-In-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
+<br>B. Llacer Trotti, W. Tang, R. El-Azouzi, G. Fanti, D. Menasche
+<br> <a href="">[AFT 2025]</a>
+<br>
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
 <br> <a href="https://arxiv.org/abs/2411.10399">[SIGMETRICS 2025]</a>
@@ -19,6 +31,7 @@ author_profile: false
 <br>K. Sowon, C.W. Munyendo, L. Klucinec, E. Maingi, G. Suleh, L.F. Cranor, G. Fanti, C. Tucker, and A. Gueye
 <br> <a href="https://arxiv.org/abs/2412.18716">[SOUPS 2025]</a>
 <br>
+<b><font color="red">(IAPP Privacy SOUPS Award 2025)</font></b><br>
 * <b>Inferentially Private Private Information</b>
 <br>S. Wang, S. Zheng, Z. Lin, G. Fanti, S. Wu
 <br> <a href="">[WWW 2025]</a>
