@@ -7,15 +7,21 @@ author_profile: false
 ### 2025
 * <b>Private Evolution Converges</b>
 <br>T. Gonzalez Lara, G. Fanti, A. Ramdas
-<br> <a href="https://arxiv.org/abs/2506.08312">[arXiv 2025]</a>
+<br> <a href="https://arxiv.org/abs/2506.08312">[NeurIPS 2025]</a>
 <br>
 * <b>A Principled Approach to Randomized Selection under Uncertainty</b>
 <br>A. Goldberg, G. Fanti, N. Shah
-<br> <a href="https://arxiv.org/abs/2506.19083">[arXiv 2025]</a>
+<br> <a href="https://arxiv.org/abs/2506.19083">[NeurIPS 2025]</a>
+<br>
+<b><font color="purple">(Spotlight @ NeurIPS 2025)</font></b><br>
+* <b>Struct-Bench: A Benchmark for Differentially Private Structured Text Generation</b>
+<br>S. Wang\*, V. Raunak\*, A. Backurs, V. Reis, P. Zhou, S. Chen, L. Yang, Z. Lin, S. Yekhanin, G. Fanti
+<br> \* Equal contribution
+<br> <a href="https://arxiv.org/abs/2509.10696">[NeurIPS 2025, Datasets & Benchmarks Track]</a>
 <br>
 * <b>Strategic Analysis of Just-In-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B. Llacer Trotti, W. Tang, R. El-Azouzi, G. Fanti, D. Menasche
-<br> <a href="">[AFT 2025]</a>
+<br> <a href="http://arxiv.org/abs/2509.16157">[AFT 2025]</a>
 <br>
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>W. Tang, R. El-Azouzi, C.H. Lee, E. Chan, G. Fanti
