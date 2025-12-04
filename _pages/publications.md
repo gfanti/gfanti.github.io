@@ -40,7 +40,7 @@ author_profile: false
 <b><font color="red">(IAPP Privacy SOUPS Award 2025)</font></b><br>
 * <b>Inferentially Private Private Information</b>
 <br>S. Wang, S. Zheng, Z. Lin, G. Fanti, S. Wu
-<br> <a href="">[WWW 2025]</a>
+<br> <a href="https://dl.acm.org/doi/abs/10.1145/3696410.3714702">[WWW 2025]</a>
 <br>
 * <b>Truncated Consistency Models</b>
 <br>S. Lee, Y. Xu, T. Geffner, G. Fanti, K. Kreis, A. Vadhat, W. Nie
@@ -112,7 +112,7 @@ author_profile: false
 <br>
 * <b>Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown</b>
 <br>A. Maddi, S. Routray, A. Goldberg, G. Fanti
-<br> <a href="">[PPAI Workshop @ AAAI 2024]</a>
+<br> <a href="https://arxiv.org/abs/2401.18024">[PPAI Workshop @ AAAI 2024]</a>
 <br>
 * <b>The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania</b>
 <br>K. Sowon, E. Luhanga, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
@@ -160,8 +160,8 @@ Continual Federated Learning</b> <br>
         <br>
 * <b>Practical GAN-based Synthetic IP Header Trace Generation using NetShare</b> <br>
         Y. Yin, Z. Lin, M. Jin, G. Fanti, and V. Sekar <br>
-        <a href="">[SIGCOMM 2022]</a>
-        <a href="">[code]</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3544216.3544251">[SIGCOMM 2022]</a>
+        <a href="https://github.com/netsharecmu/NetShare">[code]</a>
         <br>
 * <b>FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning</b> <br>
         C. Hou, K. K. Thekumparampil, G. Fanti, S. Oh <br>
@@ -169,7 +169,7 @@ Continual Federated Learning</b> <br>
       <a href="https://arxiv.org/pdf/2108.06869.pdf">[ICLR 2022]</a>
 * <b>RareGAN: Generating Samples for Rare Classes</b> <br>
         Z. Lin, G. Fanti, V. Sekar <br>
-      <a href="">[AAAI 2022]</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20715">[AAAI 2022]</a>
       <a href="https://github.com/fjxmlzn/RareGAN">[code] </a>
 * <b>Locally Differentially Private Sparse Vector Aggregation</b> <br>
         M. Zhou, T. Wang, H. Chan, G. Fanti, E. Shi <br>
