@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+### 2026
+* <b>Value-Based Pre-Training with Downstream Feedback</b>
+<br>S. Ke, G. Fanti
+<br> <a href="https://arxiv.org/abs/2601.22108">[arxiv]</a>
+<br>
+
+
+* <b>BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards</b>
+<br>S. Lee, B. Amos, G. Fanti
+<br> <a href="https://arxiv.org/abs/2510.09596">[arxiv]</a>
+<br>
+
+* <b>MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution</b>
+<br>S. Patel\*, M. Zhou\*, G. Fanti
+<br> * Equal contribution
+<br> <a href="https://arxiv.org/abs/2512.05958">[arxiv]</a>
+<br>
+
 ### 2025
 * <b>Private Evolution Converges</b>
 <br>T. Gonzalez Lara, G. Fanti, A. Ramdas

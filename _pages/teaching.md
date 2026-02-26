@@ -13,6 +13,7 @@ author_profile: false
 
 ### Deep Generative Models 
 * Spring 2024 (co-taught with Beidi Chen)
+* Spring 2026 (co-taught with Beidi Chen)
 
 
 ### Optimization
