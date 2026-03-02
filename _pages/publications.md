@@ -20,6 +20,12 @@ author_profile: false
 <br>S. Patel\*, M. Zhou\*, G. Fanti
 <br> * Equal contribution
 <br> <a href="https://arxiv.org/abs/2512.05958">[arxiv]</a>
+<a href="https://fair-search.com">[Demo]</a>
+<br>
+
+* <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
+<br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
+<br> <a href="https://arxiv.org/pdf/2311.00830">[CHI 2026]</a>
 <br>
 
 ### 2025
@@ -141,10 +147,6 @@ author_profile: false
 * <b>Gen-T: Reduce Distributed Tracing Operational Costs Using Generative Models</b>
 <br>S. Tochner, G. Fanti, V. Sekar
 <br> <a href="https://openreview.net/forum?id=UVh8QBeWlN">[Temporal Graph Learning Workshop @ NeurIPS 2023]</a>
-<br>
-* <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
-<br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
-<br> <a href="https://arxiv.org/pdf/2311.00830">[arxiv]</a>
 <br>
 * <b>Towards a Defense against Backdoor Attacks in
 Continual Federated Learning</b> <br>

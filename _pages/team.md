@@ -23,9 +23,11 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/sangyun.jpeg" width="150px"> <a href="https://sangyun884.github.io/about/">Sangyun Lee</a>
 
-<img src="{{site.url}}/images/students/shuqi.jpeg" width="150px"> <a href="https://scholar.google.com/citations?user=c7m8_OwAAAAJ&hl=en">Shuqi Ke</a>
+<img src="{{site.url}}/images/students/shuqi.jpeg" width="150px"> <a href="https://shuqike.com/">Shuqi Ke</a>
 
-<img src="{{site.url}}/images/students/tomas.jpeg" width="150px"> <a href="">Tomas Gonzalez Lara</a> (co-advised with Aaditya Ramdas)
+<img src="{{site.url}}/images/students/tomas.jpeg" width="150px"> <a href="https://tsgonzalez.github.io/">Tomas Gonzalez Lara</a> (co-advised with Aaditya Ramdas)
+
+<img src="{{site.url}}/images/students/aadyaa.jpeg" width="150px"> <a href="https://aadyaamaddi.com/">Aadyaa Maddi</a> 
 
 {% comment %}
 ### Masters Students
