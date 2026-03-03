@@ -70,6 +70,10 @@ author_profile: false
 <br>S. Lee, Y. Xu, T. Geffner, G. Fanti, K. Kreis, A. Vadhat, W. Nie
 <br> <a href="https://arxiv.org/abs/2410.14895">[ICLR 2025]</a>
 <br>
+* <b>Characterizing the Training Dynamics of Private Fine-tuning with Langevin diffusion</b>
+<br>S. Ke, C. Hou, S. Oh, G. Fanti
+<br> <a href="https://arxiv.org/abs/2402.18905">[TMLR]</a>
+<br>
 * <b>Pacmann: Efficient Private Approximate Nearest Neighbor Search</b>
 <br>M. Zhou, E. Shi, G. Fanti
 <br> <a href="https://eprint.iacr.org/2024/1600">[ICLR 2025]</a>
@@ -104,10 +108,6 @@ author_profile: false
 <br>G. Gopi, A. Maddi, O. Arasaratnam, G. Fanti <br>
 <b><font color="red">(Most Notable Paper: Social Impact Category @ CSAW Applied Research Competition 2024)</font></b><br>
 <a href="https://www.usenix.org/system/files/soups2024-gopi.pdf">[SOUPS 2024]</a>
-<br>
-* <b>On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?</b>
-<br>S. Ke, C. Hou, S. Oh, G. Fanti
-<br> <a href="https://arxiv.org/html/2402.18905v1">[arXiv 2024]</a>
 <br>
 * <b>Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy</b>
 <br>W. Dong, Q. Liu, G. Fanti, E. Shi, K. Yi
