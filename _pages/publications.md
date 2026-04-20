@@ -18,10 +18,18 @@ author_profile: false
 
 * <b>MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution</b>
 <br>S. Patel\*, M. Zhou\*, G. Fanti
-<br> * Equal contribution
+<br>\*Equal contribution
 <br> <a href="https://arxiv.org/abs/2512.05958">[arxiv]</a>
 <a href="https://fair-search.com">[Demo]</a>
 <br>
+
+
+* <b>A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa</b>
+<br>I. Agadagba\*, T. Kilasara\*, T. Tarutira*, N. Shumba, N. Christin, O. Foyeke, A. Gueye, E. Luhanga, A. Rusero, K. Sowon, G. Fanti 
+<br>\*Equal contribution
+<br> <a href="https://arxiv.org/abs/2604.11566">[arxiv]</a> 
+<br>
+
 
 * <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
 <br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
