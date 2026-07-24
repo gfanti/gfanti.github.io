@@ -5,11 +5,21 @@ permalink: /publications/
 author_profile: false
 ---
 ### 2026
+* <b>Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference</b>
+<br>S. Lee, S. McLeish, T. Goldstein, G. Fanti
+<br> <a href="https://arxiv.org/abs/2605.26099">[arxiv]</a>
+<br>
+
 * <b>Value-Based Pre-Training with Downstream Feedback</b>
 <br>S. Ke, G. Fanti
 <br> <a href="https://arxiv.org/abs/2601.22108">[arxiv]</a>
 <br>
 
+
+* <b>Smooth Partial Lotteries for Stable Randomized Selection</b>
+<br>A. Goldberg, G. Fanti, N. Shah
+<br> <a href="https://arxiv.org/abs/2605.20069">[arxiv]</a>
+<br>
 
 * <b>BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards</b>
 <br>S. Lee, B. Amos, G. Fanti
@@ -24,17 +34,35 @@ author_profile: false
 <br>
 
 
+
+
+* <b>Black-Box Inference of LLM Architectural Properties with Restrictive API Access</b>
+<br>C. Ellis\*, S. Chaudhari\*, M.-Y. Wang\*, L. Barnes, G. Fanti, J. Moura
+<br>\*Equal contribution
+<br> <a href="https://arxiv.org/abs/2607.01313">[arxiv]</a>
+<br>
+
 * <b>A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa</b>
 <br>I. Agadagba\*, T. Kilasara\*, T. Tarutira*, N. Shumba, N. Christin, O. Foyeke, A. Gueye, E. Luhanga, A. Rusero, K. Sowon, G. Fanti 
 <br>\*Equal contribution
 <br> <a href="https://arxiv.org/abs/2604.11566">[arxiv]</a> 
 <br>
 
+* <b>Statistic Maximal Leakage</b>
+<br>S. Wang, Z. Lin, G. Fanti
+<br> <a href="https://ieeexplore.ieee.org/iel8/10619013/10619074/10619258.pdf">[ISIT 2024]</a> <a href="https://www.mdpi.com/1099-4300/28/7/819">[Entropy 2026]</a>
+<br>
 
 * <b>User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania</b>
 <br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
 <br> <a href="https://arxiv.org/pdf/2311.00830">[CHI 2026]</a>
 <br>
+
+* <b>Crypto x AI, AI x Crypto: A Survey</b>
+<br>S. Allen, P. Anchuri, J. Austgen, M. Bahrani, S. Breckenridge, A. Buchwald, C. Cachin, A. Fábrega, J. Fernandez, J.H. Chiang, M. Mouallem, R. Bar-Zur, N. DeSilva, I. Eyal, G. Fanti, A. Juels, A. Miller, C. Sillaber, D. Vilardell, P. Viswanath, W. Wang, M. Weinberg, S. Yang, J. Yao, F. Zhang
+<br> <a href="https://arxiv.org/abs/2606.13892">[arxiv]</a>
+<br>
+
 
 ### 2025
 * <b>Private Evolution Converges</b>
@@ -130,10 +158,6 @@ author_profile: false
         <a href="https://arxiv.org/abs/2305.09123">[AFT 2024]</a>
         <a href="https://github.com/proy-11/NuRaft-Forensics.git">[Implementation]</a>
         <a href="https://github.com/WeizhaoT/Raft-Forensics-Simulator">[Simulation code] </a><br>
-* <b>Statistic Maximal Leakage</b>
-<br>S. Wang, Z. Lin, G. Fanti
-<br> <a href="https://ieeexplore.ieee.org/iel8/10619013/10619074/10619258.pdf">[ISIT 2024]</a>
-<br>
 * <b>Summary Statistic Privacy in Data Sharing</b> <br>
         Z. Lin\*, S. Wang\*, V. Sekar, and G. Fanti <br>
         <a href="https://arxiv.org/pdf/2303.02014">[JSAIT, Special Issue on Trustworthy ML]</a>
