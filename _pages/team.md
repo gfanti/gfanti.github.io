@@ -49,12 +49,12 @@ I am fortunate to work with an incredibly talented and creative group of student
 * Paria Shirani (Faculty at University of Ottawa)
 
 #### Ph.D. Students
-* Shuaiqi Wang (Apple)
-* Alexander Goldberg (Exa)
+* Shuaiqi Wang (Apple, Machine Learning Researcher)
+* Alexander Goldberg (Exa, Researcher)
 * Mingxun Zhou (Faculty at HKUST)
-* Weizhao Tang (Meta)
-* Charlie Hou (Meta)
-* Zinan Lin (Microsoft Research)
+* Weizhao Tang (Meta, Research Scientist)
+* Charlie Hou (Google DeepMind, Research Scientist)
+* Zinan Lin (Microsoft Research, Principal Researcher)
 
 #### M.S. Students
 * Angad Ripudaman Bajwa (ML Eningeer, HPE)
