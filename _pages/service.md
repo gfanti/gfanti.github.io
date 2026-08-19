@@ -7,6 +7,7 @@ author_profile: false
 
 
 ### Organizing Committees
+* ACM SIGMETRICS 2026 Industry Panels Co-Chair
 * USENIX Security 2025 Vice-Chair
 * Co-Organizer, ICLR 2025 <a href="https://synthetic-data-iclr.github.io/">Workshop on Synthetic Data</a>
 * ACM SIGMETRICS/Performance 2024 TPC Co-Chair (with Florin Ciucu and Rhonda Righter)
@@ -19,6 +20,7 @@ author_profile: false
 * ACM POMACS Information Director (2017-present)
 
 ### Program Committes
+* 2027: <a href="https://www.sigmetrics.org/sigmetrics2027/"> ACM SIGMETRICS 2027</a>
 * 2026: <a href="https://www.sigmetrics.org/sigmetrics2026/"> ACM SIGMETRICS 2026</a>, <a href="https://www.sigsac.org/ccs/CCS2026/"> ACM CCS 2026</a>, <a href="https://icml.cc/"> ICML (Area Chair)</a>, <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>
 * 2025: <a href="https://sp2025.ieee-security.org/"> IEEE Security & Privacy 2025</a>, <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>
 * 2024: <a href="https://neurips.cc/"> NeurIPS (Area Chair)</a>

@@ -32,3 +32,4 @@ author_profile: false
 * <a href="https://foundprivacy.github.io/">Fall 2023</a> (co-taught with Steven Wu)
 * <a href="https://foundprivacy.github.io/">Fall 2024</a> (co-taught with Steven Wu)
 * <a href="https://foundprivacy.github.io/">Fall 2025</a> (co-taught with Steven Wu)
+* <a href="https://foundprivacy.github.io/">Fall 2026</a> (co-taught with Steven Wu)
