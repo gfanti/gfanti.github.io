@@ -25,6 +25,9 @@ I am fortunate to work with an incredibly talented and creative group of student
 
 <img src="{{site.url}}/images/students/aadyaa.jpeg" width="150px"> <a href="https://aadyaamaddi.com/">Aadyaa Maddi</a> 
 
+### Undergraduates
+<img src="{{site.url}}/images/students/cheng.jpg" width="150px"> <a href="https://www.chenghua.me/">Cheng Hua</a>
+
 {% comment %}
 ### Masters Students
 <a href="https://scholar.google.com/citations?user=MTJhaC0AAAAJ&hl=en&oi=ao">Angad Ripudaman Bajwa</a>
