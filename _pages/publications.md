@@ -7,18 +7,18 @@ author_profile: false
 ### 2026
 * <b>Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference</b>
 <br>S. Lee, S. McLeish, T. Goldstein, G. Fanti
-<br> <a href="https://arxiv.org/abs/2605.26099">[arxiv]</a>
+<br> <a href="https://arxiv.org/abs/2605.26099">[NeurIPS 2026]</a>
 <br>
 
 * <b>Value-Based Pre-Training with Downstream Feedback</b>
 <br>S. Ke, G. Fanti
-<br> <a href="https://arxiv.org/abs/2601.22108">[arxiv]</a>
+<br> <a href="https://arxiv.org/abs/2601.22108">[NeurIPS 2026]</a>
 <br>
 
 
 * <b>Smooth Partial Lotteries for Stable Randomized Selection</b>
 <br>A. Goldberg, G. Fanti, N. Shah
-<br> <a href="https://arxiv.org/abs/2605.20069">[arxiv]</a>
+<br> <a href="https://arxiv.org/abs/2605.20069">[NeurIPS 2026]</a>
 <br>
 
 * <b>BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards</b>
@@ -39,7 +39,7 @@ author_profile: false
 * <b>Black-Box Inference of LLM Architectural Properties with Restrictive API Access</b>
 <br>C. Ellis\*, S. Chaudhari\*, M.-Y. Wang\*, L. Barnes, G. Fanti, J. Moura
 <br>\*Equal contribution
-<br> <a href="https://arxiv.org/abs/2607.01313">[arxiv]</a>
+<br> <a href="https://arxiv.org/abs/2607.01313">[NeurIPS 2026]</a>
 <br>
 
 * <b>A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa</b>
