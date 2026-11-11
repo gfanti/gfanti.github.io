@@ -12,7 +12,7 @@ author_profile: false
 
 * <b>Value-Based Pre-Training with Downstream Feedback</b>
 <br>S. Ke, G. Fanti
-<br> <a href="https://arxiv.org/abs/2601.22108">[NeurIPS 2026]</a>
+<br> <a href="https://arxiv.org/abs/2601.22108">[NeurIPS 2026]</a> <a href="https://blog.ml.cmu.edu/2026/06/17/pre-training-isnt-bitter-enough/">[Blog]</a>
 <br>
 
 
@@ -21,26 +21,17 @@ author_profile: false
 <br> <a href="https://arxiv.org/abs/2605.20069">[NeurIPS 2026]</a>
 <br>
 
-* <b>BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards</b>
-<br>S. Lee, B. Amos, G. Fanti
-<br> <a href="https://arxiv.org/abs/2510.09596">[arxiv]</a>
-<br>
-
-* <b>MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution</b>
-<br>S. Patel\*, M. Zhou\*, G. Fanti
-<br>\*Equal contribution
-<br> <a href="https://arxiv.org/abs/2512.05958">[arxiv]</a>
-<a href="https://fair-search.com">[Demo]</a>
-<br>
-
-
-
 
 * <b>Black-Box Inference of LLM Architectural Properties with Restrictive API Access</b>
 <br>C. Ellis\*, S. Chaudhari\*, M.-Y. Wang\*, L. Barnes, G. Fanti, J. Moura
 <br>\*Equal contribution
 <br> <a href="https://arxiv.org/abs/2607.01313">[NeurIPS 2026]</a>
 <br>
+
+
+
+
+
 
 * <b>A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa</b>
 <br>I. Agadagba\*, T. Kilasara\*, T. Tarutira*, N. Shumba, N. Christin, O. Foyeke, A. Gueye, E. Luhanga, A. Rusero, K. Sowon, G. Fanti 
@@ -57,6 +48,19 @@ author_profile: false
 <br>E. Luhanga, K. Sowon, L. Cranor, G. Fanti, C. Tucker, A. Gueye 
 <br> <a href="https://arxiv.org/pdf/2311.00830">[CHI 2026]</a>
 <br>
+
+* <b>BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards</b>
+<br>S. Lee, B. Amos, G. Fanti
+<br> <a href="https://arxiv.org/abs/2510.09596">[arxiv]</a> <a href="https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/">[Blog]</a>
+<br>
+
+* <b>MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution</b>
+<br>S. Patel\*, M. Zhou\*, G. Fanti
+<br>\*Equal contribution
+<br> <a href="https://arxiv.org/abs/2512.05958">[arxiv]</a>
+<a href="https://fair-search.com">[Demo]</a>
+<br>
+
 
 * <b>Crypto x AI, AI x Crypto: A Survey</b>
 <br>S. Allen, P. Anchuri, J. Austgen, M. Bahrani, S. Breckenridge, A. Buchwald, C. Cachin, A. Fábrega, J. Fernandez, J.H. Chiang, M. Mouallem, R. Bar-Zur, N. DeSilva, I. Eyal, G. Fanti, A. Juels, A. Miller, C. Sillaber, D. Vilardell, P. Viswanath, W. Wang, M. Weinberg, S. Yang, J. Yao, F. Zhang
