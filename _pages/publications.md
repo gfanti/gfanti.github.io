@@ -10,6 +10,11 @@ author_profile: false
 <br> <a href="https://arxiv.org/abs/2605.26099">[NeurIPS 2026]</a>
 <br>
 
+* <b>SynAE: A Framework for Measuring the Quality of Synthetic Data for Tool-Calling Agent Evaluations</b>
+<br>S. Wang, A. Maddi, Z. Lin, G. Fanti
+<br> <a href="https://arxiv.org/abs/2605.22564">[arxiv]</a>
+<br>
+
 * <b>Value-Based Pre-Training with Downstream Feedback</b>
 <br>S. Ke, G. Fanti
 <br> <a href="https://arxiv.org/abs/2601.22108">[NeurIPS 2026]</a> <a href="https://blog.ml.cmu.edu/2026/06/17/pre-training-isnt-bitter-enough/">[Blog]</a>
@@ -69,10 +74,6 @@ author_profile: false
 
 
 ### 2025
-* <b>A Water Efficiency Dataset for African Data Centers</b>
-<br>N. Shumba, O. Tshekiso, P. Li, G. Fanti, S. Ren
-<br> <a href="https://doi.org/10.1145/3715335.3735483">[COMPASS 2025]</a> <a href="https://arxiv.org/abs/2412.03716">[arxiv]</a>
-<br>
 * <b>Private Evolution Converges</b>
 <br>T. Gonzalez Lara, G. Fanti, A. Ramdas
 <br> <a href="https://arxiv.org/abs/2506.08312">[NeurIPS 2025]</a>
